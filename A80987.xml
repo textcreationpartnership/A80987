@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Protector. A Proclamation for the better levying and payment of the duty of excise.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80987</idno>
+            <idno type="STC">Wing C7153</idno>
+            <idno type="STC">Thomason 669.f.20[77]</idno>
+            <idno type="STC">ESTC R212235</idno>
+            <idno type="EEBO-CITATION">99870877</idno>
+            <idno type="PROQUEST">99870877</idno>
+            <idno type="VID">163493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163493)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[77])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Protector. A Proclamation for the better levying and payment of the duty of excise.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657 [i.e. 1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given at Our Palace at Westminster the 10th day of March, in the Year of Our Lord, 1657.</note>
+                  <note>The annual revenue has been fixed by Parliament at £1,300,000, best raised by excise. Recites the various Acts governing the excise. Lays down regulations for the collection of the excise from brewers and from ale-house keepers who brew for sale. -- Cf. Steele.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Excise tax --  England --  Early works to 1800.</term>
+               <term>Brewing industry --  Taxation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_proclamation">
+            <pb facs="tcp:163493:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">OLIVARIVS DEI GRA: REIPVB: ANGLIAE, SCOTIAE, ET HIBERNIAE, &amp;<hi rend="sup">c</hi> PROTECTOR</q>
+                  <q xml:lang="lat">PAX QVAERITVR BELLO.</q>
+                  <figDesc>a depiction of the arms of the Commonwealth from 1653 to 1659.</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the Protector. A PROCLAMATION For the better Levying and payment of the Duty of EXCISE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>HEREAS</hi> in purſuance of the Reſolutions of the late Parliament to ſettle a yearly Revenue of Thirteen hundred Thouſand pounds for ſupport of the Government and defence of theſe Nations by Sea and Land, It being found that the Impoſition of the Exciſe is the moſt eaſie and indifferent Le<g ref="char:EOLhyphen"/>vy that can be laid upon the People, aſwel for and towards the diſcharging of thoſe Engagements which lye, and are charged upon that Receipt, as for the carrying on the other urgent and preſſing Affairs of the Commonwealth, and defraying the Charges of the Naval Forces thereof in the preſent War with <hi>Spain,</hi> and againſt the Common Enemy; An Act was made in the ſame Parliament, Intituled, <hi>An Additional Act for the better improvement and advancing the Receipts of the Exciſe and New Impoſt,</hi> Wherein it is (amongſt other things) Provided and Enacted, That no Fine impoſed, or Impriſonment, Penalty, or Forfeiture inflicted, or ſeizure made by, or by vertue of the ſaid Act, or any other Act or Ordinance for or concerning the levy<g ref="char:EOLhyphen"/>ing or paying of the duty of Exciſe for any In-land commodity, ſhall be levied or executed, or ſale of any ſuch ſeizure be made by the Sub-Commiſſioners, or Farmers of the Exciſe, within the ſeveral Coun<g ref="char:EOLhyphen"/>ties and places of this Commonwealth (Except the City of <hi>London</hi> and the deſtrict thereof) or by any their Agents, Deputies, or Officers otherwiſe then by Order or Warrant under the hands and ſeals of two, or more Iuſtices of the Peace of the ſaid County, or place, the ſaid Iuſtices not being any way intereſſed or concerned in the thing in queſtion, or Landlord, or Tenant, or of Kindred or Rela<g ref="char:EOLhyphen"/>tion to the parties therein concerned, or any of them; Which ſaid two Iuſtices are thereby authorized and required upon complaint to them made by the ſaid Officers or Parties, to hear and examine the ſame upon Oath, and finally to determine the ſaid matters of Complaint; And in caſe they ſhall finde upon ſuch Examination that any Default hath been in any of the ſaid Parties through ignorance or miſtake, and not by deſigne of fraud or deceipt, The ſaid Iuſtices are thereby authorized to miti<g ref="char:EOLhyphen"/>gate ſuch Fine, Penalty, or Forfeiture, ſo as by ſuch mitigation the ſame be not made leſs then double the value of the duty of Exciſe, which ſhould or ought to have been paid beſides the reaſonable Coſts and charges of ſuch Officer, or Officers as were employed therein, to be to them allowed by the ſaid Iuſtices. And whereas in order to the ends aforeſaid, the ſaid Parliament finding it neceſſary that the profits of the Exciſe and Cuſtoms and other the Publique Revenue might be by all good ways and means improved to the beſt advantage of the Commonwealth, and as much as may be, reduced to a certainty, by one other Act made in the ſame Parliament, Intituled, <hi>An Act for the improvement of the Revenues of the Cuſtoms and Exciſe;</hi> certain Perſons therein named, or any ſeven of them, are autho<g ref="char:EOLhyphen"/>rized and impowred to be a Committee of Parliament to treat, contract and conclude with any perſon or perſons for the Farming all or any part of the Duties of Cuſtoms and Subſidie of Tonnage and Poundage, and of Exciſe and New Impoſt; And it is thereby Enacted, That what Contract Bar<g ref="char:EOLhyphen"/>gain or Agreement ſhall be made by the ſaid Committee or any ſeven of them, with any perſon or per<g ref="char:EOLhyphen"/>ſons, for or touching the premiſes or any part thereof, being aſſented unto by Vs with the advice of Our Council, and ratified and confirmed by any Grant or Grants under the Great Seal of <hi>England,</hi> ſhould be and are thereby declared to be good and valid to all intents and purpoſes. In purſuance of which laſt recited Act, ſeveral Contracts, Bargains and Agreements have been made by the ſaid Commit<g ref="char:EOLhyphen"/>tee with divers perſons touching the Farming of the Exciſe or New Impoſt, aſwel of Beer, Ale, Per<g ref="char:EOLhyphen"/>ry, Cider, Mead, and Metheglin within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and ſeveral other Ci<g ref="char:EOLhyphen"/>ties, Towns and Counties in <hi>England</hi> and <hi>Wales,</hi> as of ſeveral other Commodities Native and For<g ref="char:EOLhyphen"/>raign; Which We with the advice of Our Council have aſſented unto, and ratified and confirmed by ſeveral Grants under Our Great Seal of <hi>England.</hi> Whereby the ſaid Revenue is in ſome meaſure im<g ref="char:EOLhyphen"/>proved, and reduced to more certainty then formerly; and, if the ſame be duly and conſtantly paid, will tend much to the Publique advantage, and without which the Affairs of the Publique Peace and ſafety cannot be carried on. Now foraſmuch as it hath been repreſented unto Vs, that divers Brew<g ref="char:EOLhyphen"/>ers and other perſons within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and other the Cities, Counties and places of this Commonwealth; and alſo divers Vintners, Inn-keepers, Victuallers, Alehouſe-kee<g ref="char:EOLhyphen"/>pers, and other Makers, Planters, Growers and Ingroſſers of Native Commodities exciſeable, for the making of unjuſt gain to themſelves, or out of diſ-affection to the Publique, Do Detain, withdraw, hold and keep to themſelves the ſeveral Duties of Exciſe, by not making true Weekly particular En<g ref="char:EOLhyphen"/>tries of what they Brew and make, and forthwith clearing and paying the Duty of Exciſe for the ſame,
+<pb facs="tcp:163493:2"/> As by the ſeveral Acts and Ordinances for the Exciſe they are required to do, and by divers frauds and concealments, whereby not onely the Publique Revenue is daily diminiſhed, but other perſons duly conforming to the ſaid Acts and Ordinances are thereby prejudiced in their Trades and Callings by being underſold; And that divers of the ſaid Iuſtices of the Peace do refuſe or neglect ſo ſpeedily to grant their Warrants to the ſaid Subcommiſſioners, for the executing and levying of the Penalties and Forfeitures by them adjudged for the ſaid offences, as the neceſſity of that ſervice doth require, and do oftentimes by pretext of the ſaid <hi>Proviſo,</hi> mitigate the ſaid Penalties contrary to the true intent and meaning thereof, whereby the ſaid Revenue (without which the Publique affairs of the Common<g ref="char:EOLhyphen"/>wealth cannot be carried on) is in danger to be diminiſhed. We do therefore hereby publiſh and Declare that Our wil and intention is, That the ſaid Revenue of the Exciſe be by all juſt and lawfull means maintained and upheld, And that we do expect that the Commiſſioners and Sub-Commiſſioners of the Exciſe, and all and every of the Iuſtices of the Peace in the ſeveral Counties, Cities and places of this Commonwealth do put the Laws of Exciſe in effectual execution in that behalf: And We do ſtraitly will and require all Iuſtices of the Peace, in the ſeveral Counties, Cities and places of this Commonwealth, and every of them, That upon any Certificate or Certificates unto them, or any two of them made, by the reſpective Sub-Commiſſioners of the Exciſe, in the reſpective County, City or place where there ſhall be Iuſtices, of any judgment or ſentence by them paſſed or given, in any cauſe or cauſes of the Exciſe, according to any of the Acts and Ordinances of the Exciſe in that behalf made, the ſaid two Iuſtices do forthwith without delay, make and ſigne a Warrant or Warrants for the exe<g ref="char:EOLhyphen"/>cution of the ſaid judgment or ſentence accordingly, As by the true intent and meaning of the ſaid Ad<g ref="char:EOLhyphen"/>ditional Act for the better improvement and advancing of the Receipts of the Exciſe and New Impoſt they may and ought to do. And that they do not take upon them to mitigate any Fine, Penalty or Forfeiture by the ſaid Sub-Commiſſioners adjudged and ſet; But upon application of the party ſen<g ref="char:EOLhyphen"/>tenced by way of Appeal unto them made, or otherwiſe then in caſes in the ſaid Act mentioned, as they and every of them will anſwer their neglect of the duty herein (being of ſuch Importance to the Publique) at their Perils; And of which We are reſolved, and do hereby declare We intend to take ſpecial notice, and do require an exact accompt of all ſuch failings and neglects. And whereas divers Vintners, Inn-keepers, Victuallers, Alehouſe-keepers, and other Retailers of Beer and Ale, do refuſe to give ſecurity to the ſaid Sub-Commiſſioners or Farmers, within whoſe juriſdictions and li<g ref="char:EOLhyphen"/>mits they do inhabit or dwell, for the true payment of the Exciſe of all ſuch Beer and Ale as they do Brew and Make, and yet do Brew and Make their own Beer and Ale, and will not take what they ſell and utter of ſome common Brewer, contrary to the two and thirtieth Article of an Act of Parlia<g ref="char:EOLhyphen"/>ment made and publiſhed the Fourteenth day of <hi>Auguſt,</hi> in the Year of our Lord One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty nine, and confirmed and continued by the firſt recited Act of Parliament herein before men<g ref="char:EOLhyphen"/>tioned; In which caſe, upon due proof made (as by the ſaid Article is preſcribed) before any one Iu<g ref="char:EOLhyphen"/>ſtice of the Peace within the County, City or Town Corporate, where the party offending doth re<g ref="char:EOLhyphen"/>ſide and dwell, the ſaid Iuſtice of the Peace hath power to impoſe and levy upon the ſaid party ſo of<g ref="char:EOLhyphen"/>fending, the ſeveral penalties and forfeitures by the ſaid Article limited. And We do further hereby ſtraitly charge and command every ſuch Iuſtice of the Peace (before whom any ſuch proof ſhall be made or tendred to be made as aforeſaid) That he do forthwith without delay proceed againſt the ſaid party offending, by hearing and determining the ſaid Offence, and by levying and executing of the ſe<g ref="char:EOLhyphen"/>veral penalties and forfeitures therein limited, according as by the ſaid two and thirtieth Article of the ſaid laſt recited Act of Parliament is directed and required. And if it ſhall be made appear to Vs or our Privy Council, That any Iuſtice or Iuſtices of the Peace ſhall neglect or refuſe to do his or their Duty herein, according to the true intent and meaning of the ſeveral Acts of Parliament above mentioned, All and every ſuch Iuſtice and Iuſtices ſhall be by Vs reputed and taken to be perſons diſaffected to the ſervice, ſafety and welfare of the Commonwealth; And to the end that Our will and pleaſure herein may be made known, We do hereby will and require the ſeveral and reſpective Sherifs, Majors and Baylifs in the ſaid ſeveral and reſpective Counties, Cities and Towns Cor<g ref="char:EOLhyphen"/>porate, to cauſe this Our Proclamation to be openly read and publiſhed in the Market place of every Market Town within their ſeveral and reſpective Sherif-wicks and Liberties, upon ſome Market day within ten days next after the receipt hereof. And all Officers aſwel Military as Civil are hereby reſpectively required to be aiding and aſsiſting in the due execution hereof.</p>
+            <closer>
+               <dateline>Given at Our Palace of <hi>Weſtminſter</hi> 
+                  <date>the 10th day of <hi>March,</hi> in the year of Our Lord, 1657.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs, 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
